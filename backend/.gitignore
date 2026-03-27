@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pycbackend/final_master_dataset.csv
+backend/aqi_7day_model.pkl
+final_master_dataset.csv
